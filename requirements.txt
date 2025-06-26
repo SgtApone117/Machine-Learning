@@ -1,0 +1,9 @@
+numpy
+jupyter
+Flask
+pymongo 
+dotenv 
+streamlit
+pandas
+scikit-learn
+matplotlib
